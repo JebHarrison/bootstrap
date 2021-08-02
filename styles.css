@@ -1,0 +1,8 @@
+[class^="con"] {
+    background-color: aqua;
+}
+
+[class^="row"] {
+    min-height: 300px;
+    padding: 20px;
+}
